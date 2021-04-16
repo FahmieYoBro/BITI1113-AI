@@ -90,17 +90,17 @@ To help keep her spirits up, Prajna decided to distract herself by applying comp
 
 ## D.   PROJECT STRUCTURE
 
--[Coming soon]
+- [Coming soon]
 
 
 ## E   TRAINING THE COVID-19 FACE MASK DETECTION
 
--[Coming soon]
+- [Coming soon]
 
 ## F.  RESULT AND CONCLUSION
 
--[Coming soon]
+- [Coming soon]
 
 ## G.   PROJECT PRESENTATION 
 
--[Coming soon]
+- [Coming soon]
