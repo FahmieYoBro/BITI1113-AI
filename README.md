@@ -27,7 +27,8 @@ It is not usually distributed by a central authority and does not occur in tangi
 Each cryptocurrency, when applied with shared power, uses distributed ledger technology, usually a blockchain, to act as a public financial transaction database.
 
 
-![Coding](https://editorial.fxstreet.com/miscelaneous/Q3fQrzd7t9plKMsYcCga8Du67s02rB1BNLjN1wtB/BTC%2024-637444010419875161)
+![Coding](https://editorial.fxstreet.com/miscelaneous/Q3fQrzd7t9plKMsYcCga8Du67s02rB1BNLjN1wtB/BTC%2024-637444010419875161.png)
+
 Figure 1 shows the list of prediction cryptocurrency price prediction.
 
 
