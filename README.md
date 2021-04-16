@@ -1,4 +1,4 @@
-# FACE MASK DETECTION USING DEEP LEARNING 
+# Prediction Cryptocurrency Price using Machine Learning
 
 ## A. PROJECT SUMMARY
 
