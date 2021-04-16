@@ -8,7 +8,7 @@
 - [Muhammad Zulfahmi bin Zambri]
 - [Muhammad Azri bin Abdullah Zawawi]
 - [Muhammad Syazani bin Mohd Shah]
-- [Zaki bin Armindo]
+- [Zaki Armindo]
 
 
 - [ ] **Objectives:**
