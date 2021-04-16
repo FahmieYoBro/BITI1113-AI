@@ -42,7 +42,7 @@ The dataset contains total of 5 features. The details for them are as follows:
 2. High Price — It is highest price of currency for the day.
 3. Low Price — It is the lowest price for currency for that day.
 4. Open Price — It is market open price for currency for that day.
-5. Volume — The volume of currency that is being in trade for that day
+5. Volume — The volume of currency that is being in trade for that day.
 
 
 ## D.   PROJECT STRUCTURE
