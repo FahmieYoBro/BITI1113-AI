@@ -2,7 +2,7 @@
 
 ## A. PROJECT SUMMARY
 
-**Project Title:** Face Mask Detection using Deep Learning
+**Project Title:** Prediction Cryptocurrency Price using Machine Learning
 
 **Team Members:** 
 - [Muhammad Zulfahmi bin Zambri]
