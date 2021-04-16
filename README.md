@@ -5,10 +5,10 @@
 **Project Title:** Face Mask Detection using Deep Learning
 
 **Team Members:** 
-- [insert Member Name]
-- [insert Member Name]
-- [insert Member Name]
-- [insert Member Name]
+- [Muhammad Zulfahmi bin Zambri]
+- [Muhammad Azri bin Abdullah Zawawi]
+- [Muhammad Syazani bin Mohd Shah]
+- [Zaki bin Armindo]
 
 
 - [ ] **Objectives:**
