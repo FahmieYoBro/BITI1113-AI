@@ -13,22 +13,22 @@
 
 - [ ] **Objectives:**
 - Break out the project goal into more specific objectives
-- [insert]
-- [insert]
-- [insert]
+- [Getting real-time cryptocurrency data]
+- [Predict the price of cryptocurrency]
+- [Visualiza the results]
 
 
 ##  B. ABSTRACT 
 
-In late December 2019, a previous unidentified coronavirus, currently named as the 2019 novel coronavirus, emerged from Wuhan, China, and resulted in a formidable outbreak in many cities in China and expanded globally, including Thailand, Republic of Korea, Japan, United States, Philippines, Viet Nam, and our country (as of 2/6/2020 at least 25 countries). Covid-19 are Person-to-person transmission may occur through droplet or contact transmission and if there is a lack of stringent infection control or if no proper personal protective equipment available, it may jeopardize the first-line healthcare workers.
+Individual coin ownership records are stored in a ledger existing in the form of a computerised database using strong cryptography to protect transaction records, monitor the production of additional coins, and verify the transfer of coin ownership. A cryptocurrency, crypto currency, or crypto is a digital asset intended to function as a medium of exchange wherein individual coin ownership records are stored in a ledger existing in the form of a computerised database using strong cryptography to secure transaction records, control the creation of additional coins, and verify the transfer of coin ownership.
 
-The best safety measure that can be taken is enforcing the people to wear a face mask whenever they are outside to slow down the COVID-19 infection rate. Mask wearing significantly reduced the amounts of various airborne viruses coming from infected patients, measured using the breath-capturing "Gesundheit II machine" developed by Dr. Don Milton, a professor of applied environmental health and a senior author of the study published April 3 in the journal Nature Medicine. In short, masks can help prevent the spread of COVID-19 and that the more people wearing masks, the better.
+It is not usually distributed by a central authority and does not occur in tangible form (like paper money). In contrast to centralised digital money and central banking schemes, cryptocurrencies usually use decentralised power. A cryptocurrency is called centralised whether it is minted or produced prior to issuance, or whether it is issued by a single issuer.
 
-As for now, you as a Data Scientist or Machine Learning Engineer or Practitioner are going to use AI technology to recognize people whether they are wearing face mask or not in the public or open space.
+Each cryptocurrency, when applied with shared power, uses distributed ledger technology, usually a blockchain, to act as a public financial transaction database.
 
 
-![Coding](https://miro.medium.com/max/1400/1*fyfSOSKswsmV0n7Wdy6R4Q.jpeg)
-Figure 1 shows the AI output of detecting which user is not wearing a face mask or inappropriate face mask.
+![Coding](https://editorial.fxstreet.com/miscelaneous/Q3fQrzd7t9plKMsYcCga8Du67s02rB1BNLjN1wtB/BTC%2024-637444010419875161.png)
+Figure 1 shows the list of prediction cryptocurrency price prediction.
 
 
 ## C.  DATASET
